@@ -1,0 +1,14 @@
+# user 13 T1RD33.116-33-12 d501e0 release-keys
+- manufacturer: motorola
+- platform: lahaina
+- codename: dubai
+- flavor: user
+- release: 13
+- id: T1RD33.116-33-12
+- incremental: d501e0
+- tags: release-keys
+- fingerprint: motorola/dubai_g/dubai:11/T1RD33.116-33-12/d501e0:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-13-T1RD33.116-33-12-d501e0-release-keys
+- repo: motorola_dubai_dump
